@@ -1,0 +1,15 @@
+deepseek_log/
+
+.workbuddy/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+.vscode/
+.idea/
+
+node_modules/
+dist/
